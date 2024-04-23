@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anthony\\source\\repos\\melhoriaMENOReMaiorvalor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03640D70-5224-495A-8110-B24BAB51E4DC}|melhoriaMENOReMaiorvalor\\melhoriaMENOReMaiorvalor.csproj|c:\\users\\anthony\\source\\repos\\melhoriamenoremaiorvalor\\melhoriamenoremaiorvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03640D70-5224-495A-8110-B24BAB51E4DC}|melhoriaMENOReMaiorvalor\\melhoriaMENOReMaiorvalor.csproj|solutionrelative:melhoriamenoremaiorvalor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anthony\\source\\repos\\melhoriaMENOReMaiorvalor\\melhoriaMENOReMaiorvalor\\Program.cs",
+              "RelativeDocumentMoniker": "melhoriaMENOReMaiorvalor\\Program.cs",
+              "ToolTip": "C:\\Users\\Anthony\\source\\repos\\melhoriaMENOReMaiorvalor\\melhoriaMENOReMaiorvalor\\Program.cs",
+              "RelativeToolTip": "melhoriaMENOReMaiorvalor\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:31:59.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

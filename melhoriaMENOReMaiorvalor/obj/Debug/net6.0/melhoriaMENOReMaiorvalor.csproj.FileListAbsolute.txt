@@ -1,0 +1,14 @@
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\melhoriaMENOReMaiorvalor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\melhoriaMENOReMaiorvalor.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\melhoriaMENOReMaiorvalor.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\melhoriaMENOReMaiorvalor.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\bin\Debug\net6.0\melhoriaMENOReMaiorvalor.exe
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\bin\Debug\net6.0\melhoriaMENOReMaiorvalor.deps.json
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\bin\Debug\net6.0\melhoriaMENOReMaiorvalor.runtimeconfig.json
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\bin\Debug\net6.0\melhoriaMENOReMaiorvalor.dll
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\bin\Debug\net6.0\melhoriaMENOReMaiorvalor.pdb
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\melhoriaMENOReMaiorvalor.dll
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\refint\melhoriaMENOReMaiorvalor.dll
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\melhoriaMENOReMaiorvalor.pdb
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\melhoriaMENOReMaiorvalor.genruntimeconfig.cache
+C:\Users\Anthony\source\repos\melhoriaMENOReMaiorvalor\melhoriaMENOReMaiorvalor\obj\Debug\net6.0\ref\melhoriaMENOReMaiorvalor.dll
